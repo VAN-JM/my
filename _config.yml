@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: my
-subtitle: 'oneself'
+title: 老干部的日常
+subtitle: '此生辽阔 心无旁骛'
 description: ''
 keywords:
-author: John Doe
-language: en
+author: VAN
+language: zh-CN
 timezone: ''
 
 # URL
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: clover
+theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
